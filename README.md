@@ -1,4 +1,4 @@
-Pokedex
+#pokedex
 Este é um projeto desenvolvido utilizando HTML, CSS e JavaScript que tem como objetivo consumir a API PokeAPI e exibir informações sobre Pokémons.
 
 Funcionalidades
@@ -9,8 +9,6 @@ Além disso, é possível visualizar uma lista com todos os Pokémons existentes
 Como utilizar
 Para utilizar o projeto, basta clonar o repositório em seu computador e abrir o arquivo index.html em um navegador de internet.
 
-sh
-Copy code
 git clone https://github.com/seu-usuario/pokedex.git
 Ao abrir a página, você verá um campo de busca onde poderá pesquisar o Pokémon desejado. Se preferir, também é possível navegar entre a lista de Pokémons utilizando os botões de páginação.
 
