@@ -16,10 +16,10 @@ Ao abrir a página, você verá um campo de busca onde poderá pesquisar o Poké
 ## Tecnologias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-HTML
-CSS
-JavaScript
-PokeAPI
+- HTML
+- CSS
+- JavaScript
+"-" PokeAPI
 
 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
