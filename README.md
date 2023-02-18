@@ -7,7 +7,7 @@ O projeto permite que o usuário pesquise um Pokémon pelo nome ou número, e ex
 
 Além disso, é possível visualizar uma lista com todos os Pokémons existentes na API e navegar entre as páginas de resultados.
 
-Como utilizar
+## Como utilizar
 Para utilizar o projeto, basta clonar o repositório em seu computador e abrir o arquivo index.html em um navegador de internet.
 
 git clone https://github.com/seu-usuario/pokedex.git
@@ -19,7 +19,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-"-" PokeAPI
+- PokeAPI
 
 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
