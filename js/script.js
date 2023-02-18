@@ -15,7 +15,6 @@ const fetchPokemon = async (pokemon) => {
         const data = await APIResponse.json();
         return data;
     }
-
 };
 
 const renderPokemon = async (pokemon) => {
