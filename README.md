@@ -10,7 +10,7 @@ Além disso, é possível visualizar uma lista com todos os Pokémons existentes
 ## Como utilizar
 Para utilizar o projeto, basta clonar o repositório em seu computador e abrir o arquivo index.html em um navegador de internet.
 
-git clone https://github.com/seu-usuario/pokedex.git
+git clone https://github.com/EduardoGomesJr1/pokedex.git
 Ao abrir a página, você verá um campo de busca onde poderá pesquisar o Pokémon desejado. Se preferir, também é possível navegar entre a lista de Pokémons utilizando os botões de páginação.
 
 ## Tecnologias utilizadas
